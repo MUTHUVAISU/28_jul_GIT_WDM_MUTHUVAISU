@@ -5,3 +5,6 @@ this is text file
 content is new 
 
 for git project
+
+the incremental change
+
