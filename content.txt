@@ -1,0 +1,7 @@
+welcome
+
+this is text file
+
+content is new 
+
+for git project
