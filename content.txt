@@ -8,3 +8,17 @@ for git project
 
 the incremental change
 
+
+added by branch1
+
+hello test branch1
+
+added by branch1
+
+hello test again branch1
+
+added by branch2
+
+hello test by branch2
+
+
