@@ -8,3 +8,10 @@ for git project
 
 the incremental change
 
+change done by branch2
+
+test changes branch2 
+
+change2 done by branch2
+
+test changes again by branch2 
